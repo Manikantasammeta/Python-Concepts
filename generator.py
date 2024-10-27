@@ -3,9 +3,6 @@
 #     return 10
 #     return 20
 #     return 30
-
-
-
 # print(num())
 # print(num())
 # print(num())

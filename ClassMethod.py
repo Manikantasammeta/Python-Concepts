@@ -9,6 +9,9 @@ class mani:
         return cls(name,marks*2)
 
 
+
+
+
 m=mani("io",879)
 marks="890"
 name="980"

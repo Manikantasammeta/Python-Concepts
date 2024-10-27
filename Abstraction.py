@@ -11,6 +11,9 @@ class A(ABC):
         print("ab method 3")
 
 
+
+
+
 class B(A):
     def method2(self):
         pass

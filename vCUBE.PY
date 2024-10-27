@@ -74,7 +74,4 @@ con_obj=mc.connect(host="localhost",user="root",password="1234",database="mydb")
 cur=con_obj.cursor()
 cur.execute(f"CREATE TABLE {TABLE_NAME} {columns_str}")
 
-
-
-
 print(t)
